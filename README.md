@@ -12,6 +12,6 @@
   
 2. **周杰伦歌词自动生成**  
 
-    项目地址：https://github.com/ShawnGung/dl_ml_project/tree/master/seq2seq
+    项目地址：https://github.com/ShawnGung/dl_ml_project/tree/master/GRU
 
 	- GRU + 相邻采样 : pytorch
