@@ -1,12 +1,20 @@
-# doc2vec
+# quora-question-pairs
 
-This model describes how to develop a Doc2Vec (Distributed Memory Model) model and show how to get the most similar words and documents by doc2vec in genism.
-
-Dataset : http://ai.stanford.edu/~amaas/data/sentiment/index.html
-
-This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well. Raw text and already processed bag of words formats are provided. See the README file contained in the release for more details.
+Kaggle比赛 : https://www.kaggle.com/c/quora-question-pairs/overview
+主要目的是了解文本相似度的深度模型
 
 ## Run
-- download the dataset above or you can just use the preprocessed dataset in data folder
-- run the [preprocessing.py](./data/preprocessing.py), which is to remove punctuations and stop words and so forth.
-- run the jupyter notebook
+- download the in [.data](./data) folder
+- run the [data_helper.py](data_helper.py), 清理文本数据
+- run the [feature_extract.py](feature_extract.py), 提取NLP文本特征
+- run the [leaky_feature.py](data_helper.py), 提取本比赛的特殊特征(magic feature)
+- run the [training_stacking.ipynb](training_stacking.ipynb), 提取LSTM模型的中间特征
+- run the [xgboost.ipynb](xgboost.ipynb.ipynb), 把特殊特征和LSTM的中间特征融合,利用xgboost训练融合特征
+
+
+## 模型:
+1. 利用LSTM模型进行训练,中间添加了NLP文本特征,单个模型LB ~0.25
+2. 在训练好的LSTM模型中取中间隐藏特征 concate到 magic feature上
+3. 利用xgboost再融合特征上训练, 最终LB ~0.17
+
+
