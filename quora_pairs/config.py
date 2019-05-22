@@ -1,0 +1,15 @@
+GLOVE_FILE = 'data/glove/glove.840B.300d.txt'
+FEATURE_TRAIN = 'data/nlp_features_train.csv'
+FEATURE_TEST = 'data/nlp_features_test.csv'
+LEAKY_FEATURE_TRAIN = 'data/leaky_feature_train.csv'
+LEAKY_FEATURE_TEST = 'data/leaky_feature_test.csv'
+Q1_TRAINING_DATA_FILE = 'data/tmp/q1_train.npy'
+Q2_TRAINING_DATA_FILE = 'data/tmp/q2_train.npy'
+Q1_TEST_DATA_FILE = 'data/tmp/q1_test.npy'
+Q2_TEST_DATA_FILE = 'data/tmp/q2_test.npy'
+LABEL_TRAINING_DATA_FILE = 'data/tmp/label_train.npy'
+WORD_EMBEDDING_MATRIX_FILE = 'data/tmp/word_embedding_matrix.npy'
+NB_WORDS_DATA_FILE = 'data/tmp/nb_words.json'
+MAX_NB_WORDS = 200000
+MAX_SEQUENCE_LENGTH = 25
+EMBEDDING_DIM = 300
