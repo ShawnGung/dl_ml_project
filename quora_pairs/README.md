@@ -18,3 +18,8 @@ Kaggle比赛 : https://www.kaggle.com/c/quora-question-pairs/overview
 3. 利用xgboost再融合特征上训练, 最终LB ~0.17
 
 
+
+## reference:
+
+1. magic features : https://www.kaggle.com/jturkewitz/magic-features-0-03-gain. 
+
