@@ -1,6 +1,6 @@
 # quora-question-pairs
 
-Kaggle比赛 : https://www.kaggle.com/c/quora-question-pairs/overview
+Kaggle比赛 : https://www.kaggle.com/c/quora-question-pairs/overview. 
 主要目的是了解文本相似度的深度模型
 
 ## Run
