@@ -15,3 +15,9 @@
     项目地址：https://github.com/ShawnGung/dl_ml_project/tree/master/GRU
 
 	- GRU + 相邻采样 : pytorch
+	
+2. **Quora-question-pairs**  
+
+    项目地址：https://github.com/ShawnGung/dl_ml_project/tree/master/quora_pairs
+
+	- LSTM + Xgboost : 文本相似模型
