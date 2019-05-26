@@ -4,7 +4,7 @@ This model is a try to implement a seq2seq+Attention model based on [pytorch tut
 
 ## Run
 there are three attention modes, including 'dot', 'general', 'concat'
-- python -u main.py --attn_model 'dot'
+- python main.py --attn_model 'dot'
 
 ## references
 
