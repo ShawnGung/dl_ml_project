@@ -24,6 +24,6 @@
 	
 4. **seq2seq + attention**  
 
-    项目地址：https://github.com/ShawnGung/dl_ml_project/tree/master/seq2seq+attention
+    项目地址：https://github.com/ShawnGung/dl_ml_project/tree/master/seq2seq%2BAttention
 
 	- seq2seq + Attention : 文本翻译
