@@ -1,0 +1,211 @@
+nohup: ignoring input
+Reading lines...
+Read 19777 sentence pairs
+Filtered to 4909 pairs
+Indexing words...
+Indexed 2879 words in input language, 2216 words in output
+keep_words 550 / 2876 = 0.1912
+keep_words 537 / 2213 = 0.2427
+Trimmed from 4909 pairs to 1753, 0.3571 of total
+=========data successfully loaded==========
+2m 30s (- 122m 39s) (100 2%) loss : 3.0957 bleu : 22.3312
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is a book . <EOS>
+5m 2s (- 120m 56s) (200 4%) loss : 1.6491 bleu : 31.4343
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is too big . <EOS>
+7m 33s (- 118m 23s) (300 6%) loss : 0.8279 bleu : 34.8369
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+10m 4s (- 115m 52s) (400 8%) loss : 0.3502 bleu : 37.9359
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+12m 35s (- 113m 22s) (500 10%) loss : 0.1409 bleu : 40.4637
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+15m 6s (- 110m 49s) (600 12%) loss : 0.0712 bleu : 41.0952
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+17m 37s (- 108m 17s) (700 14%) loss : 0.0469 bleu : 41.4705
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+20m 8s (- 105m 46s) (800 16%) loss : 0.0378 bleu : 40.6924
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+22m 39s (- 103m 12s) (900 18%) loss : 0.0316 bleu : 40.2303
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+25m 10s (- 100m 42s) (1000 20%) loss : 0.0270 bleu : 41.6027
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+27m 42s (- 98m 13s) (1100 22%) loss : 0.0262 bleu : 40.9198
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+30m 12s (- 95m 40s) (1200 24%) loss : 0.0354 bleu : 41.5123
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+32m 44s (- 93m 11s) (1300 26%) loss : 0.0293 bleu : 41.8654
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+35m 14s (- 90m 36s) (1400 28%) loss : 0.0218 bleu : 41.5386
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+37m 44s (- 88m 4s) (1500 30%) loss : 0.0214 bleu : 42.2436
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+40m 15s (- 85m 33s) (1600 32%) loss : 0.0194 bleu : 41.2320
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+42m 45s (- 83m 0s) (1700 34%) loss : 0.0190 bleu : 41.2730
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+45m 15s (- 80m 28s) (1800 36%) loss : 0.0184 bleu : 41.3465
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+47m 47s (- 77m 58s) (1900 38%) loss : 0.0170 bleu : 41.4643
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+50m 17s (- 75m 25s) (2000 40%) loss : 0.0192 bleu : 41.9469
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+52m 48s (- 72m 55s) (2100 42%) loss : 0.0175 bleu : 41.6022
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+55m 19s (- 70m 24s) (2200 44%) loss : 0.0178 bleu : 41.6020
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+57m 48s (- 67m 52s) (2300 46%) loss : 0.0172 bleu : 42.2061
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+60m 18s (- 65m 19s) (2400 48%) loss : 0.0189 bleu : 43.2771
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+62m 49s (- 62m 49s) (2500 50%) loss : 0.0166 bleu : 42.3887
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+65m 19s (- 60m 17s) (2600 52%) loss : 0.0171 bleu : 42.4307
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+67m 50s (- 57m 47s) (2700 54%) loss : 0.0179 bleu : 42.3894
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+70m 21s (- 55m 16s) (2800 56%) loss : 0.0170 bleu : 41.0058
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+72m 51s (- 52m 45s) (2900 57%) loss : 0.0173 bleu : 41.5294
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+75m 22s (- 50m 15s) (3000 60%) loss : 0.0169 bleu : 42.2960
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+77m 51s (- 47m 42s) (3100 62%) loss : 0.0162 bleu : 40.7692
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+80m 24s (- 45m 13s) (3200 64%) loss : 0.0170 bleu : 41.4171
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+82m 54s (- 42m 42s) (3300 66%) loss : 0.0174 bleu : 40.6267
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+85m 23s (- 40m 11s) (3400 68%) loss : 0.0177 bleu : 41.9352
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+87m 53s (- 37m 40s) (3500 70%) loss : 0.0181 bleu : 41.8148
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+90m 25s (- 35m 9s) (3600 72%) loss : 0.0694 bleu : 40.7461
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+92m 57s (- 32m 39s) (3700 74%) loss : 0.0404 bleu : 42.0934
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+95m 28s (- 30m 8s) (3800 76%) loss : 0.0197 bleu : 42.3557
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+98m 1s (- 27m 38s) (3900 78%) loss : 0.0180 bleu : 41.7567
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+100m 32s (- 25m 8s) (4000 80%) loss : 0.0171 bleu : 42.4927
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+103m 2s (- 22m 37s) (4100 82%) loss : 0.0175 bleu : 41.9984
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+105m 32s (- 20m 6s) (4200 84%) loss : 0.0163 bleu : 41.8274
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+108m 3s (- 17m 35s) (4300 86%) loss : 0.0165 bleu : 42.2199
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+110m 32s (- 15m 4s) (4400 88%) loss : 0.0173 bleu : 42.0613
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+113m 3s (- 12m 33s) (4500 90%) loss : 0.0163 bleu : 42.1415
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+115m 33s (- 10m 2s) (4600 92%) loss : 0.0163 bleu : 43.0344
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+118m 6s (- 7m 32s) (4700 94%) loss : 0.0160 bleu : 42.3664
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+120m 38s (- 5m 1s) (4800 96%) loss : 0.0165 bleu : 42.7076
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+123m 28s (- 2m 31s) (4900 98%) loss : 0.0162 bleu : 42.5471
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is lunch time . <EOS>
+126m 10s (- 0m 0s) (5000 100%) loss : 0.0169 bleu : 42.5011
+> 午餐 时间 到 了 。
+= it is lunch time .
+< it is time to eat lunch . <EOS>
+best_bleu :  43.277146992989756
