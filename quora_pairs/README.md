@@ -1,10 +1,11 @@
 # quora-question-pairs
 
-Kaggle比赛 : https://www.kaggle.com/c/quora-question-pairs/overview
+Kaggle比赛 : https://www.kaggle.com/c/quora-question-pairs/overview. 
 主要目的是了解文本相似度的深度模型
 
 ## Run
-- download the in [.data](./data) folder
+- download glove pretrained vectors in [./data/glove](./data/glove) folder
+- download the data in [./data](./data) folder
 - run the [data_helper.py](data_helper.py), 清理文本数据
 - run the [feature_extract.py](feature_extract.py), 提取NLP文本特征
 - run the [leaky_feature.py](data_helper.py), 提取本比赛的特殊特征(magic feature)
