@@ -22,7 +22,7 @@
 
 	- LSTM + Xgboost : 文本相似模型
 	
-4. **seq2seq + attention **  
+4. **seq2seq + attention**  
 
     项目地址：https://github.com/ShawnGung/dl_ml_project/tree/master/seq2seq+attention
 
