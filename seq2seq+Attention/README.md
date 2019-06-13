@@ -1,12 +1,15 @@
-# doc2vec
+# seq2seq Attention
 
-This model describes how to develop a Doc2Vec (Distributed Memory Model) model and show how to get the most similar words and documents by doc2vec in genism.
-
-Dataset : http://ai.stanford.edu/~amaas/data/sentiment/index.html
-
-This is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well. Raw text and already processed bag of words formats are provided. See the README file contained in the release for more details.
+This model is a try to implement a seq2seq+Attention model based on [pytorch tutorial](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html). The model translates chinese into english and record the attention between target and predicted sequences.
 
 ## Run
-- download the dataset above or you can just use the preprocessed dataset in data folder
-- run the [preprocessing.py](./data/preprocessing.py), which is to remove punctuations and stop words and so forth.
-- run the jupyter notebook
+there are three attention modes, including 'dot', 'general', 'concat'
+- python main.py --attn_model 'dot'
+
+## references
+
+https://arxiv.org/abs/1508.04025
+
+https://github.com/fancyerii/deep_learning_theory_and_practice/blob/master/codes/ch05/seq2seq-translation-batched-cn-fixbug.ipynb
+
+https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/masked_cross_entropy.py
