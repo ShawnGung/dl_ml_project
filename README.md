@@ -27,3 +27,9 @@
     项目地址：https://github.com/ShawnGung/dl_ml_project/tree/master/seq2seq%2BAttention
 
 	- seq2seq + Attention : 文本翻译
+
+4. **OffensEval 2019 (SemEval 2019 - Task 6)**  
+
+    项目地址：https://github.com/ShawnGung/dl_ml_project/tree/master/OffensEval
+
+	- TextCNN,BERT,SVM+TF-IDF : 文本情感分析
