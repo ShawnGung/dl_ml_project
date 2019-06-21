@@ -1,6 +1,6 @@
 # dl_ml_project
 
-项目地址：[https://github.com/audier/my_deep_project](https://github.com/audier/my_deep_project)    
+项目地址：[https://github.com/ShawnGung/dl_ml_project/](https://github.com/ShawnGung/dl_ml_project/)    
 整理学习的deep learning 以及machine learning的项目
 
 ## 1. 自然语言处理
